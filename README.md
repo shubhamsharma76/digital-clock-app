@@ -31,7 +31,7 @@ A beautiful responsive digital clock built with HTML, CSS, and JavaScript.
 5. Hover over the clock for a zoom effect
 
 ### Option 2: View Live Demo
-[Add your GitHub Pages link here after deployment]
+https://shubhamsharma76.github.io/digital-clock-app/
 
 ## File Structure
 
